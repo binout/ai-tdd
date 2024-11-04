@@ -1,0 +1,18 @@
+= TDD & AI
+
+Slides for conference `BDX I/O 2024`
+
+* https://binout.github.io/ai-tdd/
+
+== Tools
+
+Based on https://github.com/asciidoctor/asciidoctor-reveal.js
+
+Pre-requisites:: npm
+
+.Generate HTML slides
+[source]
+----
+npm install
+npm run build
+----
