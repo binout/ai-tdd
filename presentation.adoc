@@ -59,10 +59,72 @@ image:images/gorintin-copilot.png[]
 
 image::images/{conf}-background.png[background, size=cover]
 
-image:images/copilot.png[]
+image:images/copilot-model.png[]
 
 https://medium.com/analytics-vidhya/github-copilot-all-you-need-to-know-8e6fc1d5ccc[Source]
 
+== 💡 Générer des tests: bonne idée! 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/github-tests.png[]
+
+https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/[Source]
+
+== 🎬 Essayons en live
+
+image::images/{conf}-background.png[background, size=cover]
+
+DEMO
+
+== 🤔 Vraiment une bonne idée ?
+
+* 🔗 Les tests générés sont dépendants de l'implémentation
+* 🐛 Les tests générés testent vos bugs 
+
+➡️ Amplificateur du syndrome du "Test After" 💥
+
+== 🧪 Et TDD dans tout ça ?
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/tdd.png[]
+
+== 🙋 Qui sait écrire les tests ? 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/vous.png[]
+
+== 🤖 Qui peut écrire le code ? 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/copilot.png[]
+
+== 🤖 Qui peut refactorer le code ? 
+
+image::images/{conf}-background.png[background, size=cover]
+
+image:images/copilot.png[]
+
+== 🎬  Essayons en live
+
+image::images/{conf}-background.png[background, size=cover]
+
+DEMO 
+
+== 🔮 Limites des assistants de code
+
+* 🧠 Pas de compréhension du métier
+* 🧩 Pas de vision globale du projet
+* 🧾 Pas de connaissance des contraintes
+
+== 😉 Générer des tests, ça peut rendre service
+
+* 🧪 Générer des tests pour des cas simples
+* 🧑‍🏫 Pour apprendre un framework de test
+* 🥋 Pour couvrir du code existant
 
 == Merci 🙏
 
