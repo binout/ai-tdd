@@ -1,7 +1,7 @@
 node_modules
 *.html
 .DS_Store
-java/.idea
-java/target
 .vscode
-demo.py
+venv
+.pytest_cache
+__pycache__
