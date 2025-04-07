@@ -132,6 +132,15 @@ image::images/{conf}-background.png[background, size=cover]
 * 🧑‍🏫 Pour apprendre un framework de test
 * 🥋 Pour couvrir du code existant
 
+== 🦾 TDD vs AI agents?
+
+image::images/{conf}-background.png[background, size=cover]
+
+image::images/ai-agent.png[width=50%]
+
+image::images/cursor-pr.png[width=80%]
+
+
 == Merci 🙏
 
 image::images/{conf}-background.png[background, size=cover]
