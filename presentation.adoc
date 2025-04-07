@@ -79,6 +79,8 @@ DEMO
 
 == 🤔 Vraiment une bonne idée ?
 
+image::images/{conf}-background.png[background, size=cover]
+
 * 🔗 Les tests générés sont dépendants de l'implémentation
 * 🐛 Les tests générés testent vos bugs 
 
@@ -116,11 +118,15 @@ DEMO
 
 == 🔮 Limites des assistants de code
 
+image::images/{conf}-background.png[background, size=cover]
+
 * 🧠 Pas de compréhension du métier
 * 🧩 Pas de vision globale du projet
 * 🧾 Pas de connaissance des contraintes
 
 == 😉 Générer des tests, ça peut rendre service
+
+image::images/{conf}-background.png[background, size=cover]
 
 * 🧪 Générer des tests pour des cas simples
 * 🧑‍🏫 Pour apprendre un framework de test
