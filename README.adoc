@@ -1,6 +1,6 @@
 = TDD & AI
 
-Slides for conference `BDX I/O 2024`
+Slides for conference `Devoxx France 2025`
 
 * https://binout.github.io/ai-tdd/
 

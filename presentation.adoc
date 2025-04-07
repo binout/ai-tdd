@@ -33,7 +33,7 @@ icon:twitter[] icon:github[] binout
 
 image::images/alan-eng.jpeg[]
 
-== 💜 Alan, partenaire santé
+== 🧡 Alan, partenaire santé
 
 image::images/{conf}-background.png[background, size=cover]
 
