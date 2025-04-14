@@ -1,4 +1,4 @@
 
 import pytest
-from main import add_external_tag, ErrorCode
+from main import ErrorCode
 

@@ -149,5 +149,4 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/marmot.png[width=20%]
 
-➡️ https://alan.com/careers
-
+➡️ https://jobs.ashbyhq.com/alan
