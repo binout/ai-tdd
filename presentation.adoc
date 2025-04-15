@@ -122,7 +122,7 @@ image::images/{conf}-background.png[background, size=cover]
 
 * 🧠 Pas de compréhension du métier
 * 🧩 Pas de vision globale du projet
-* 🧾 Pas de connaissance des contraintes
+* 🧾 Pas de connaissance des contraintes, des bonnes pratiques
 
 == 😉 Générer des tests, ça peut rendre service
 
@@ -136,9 +136,15 @@ image::images/{conf}-background.png[background, size=cover]
 
 image::images/{conf}-background.png[background, size=cover]
 
-image::images/ai-agent.png[width=50%]
+image::images/ai-agent.png[]
+
+== 🪄 Exemples
+
+image::images/{conf}-background.png[background, size=cover]
 
 image::images/cursor-pr.png[width=80%]
+
+image::images/junie-example.png[width=80%]
 
 
 == Merci 🙏
